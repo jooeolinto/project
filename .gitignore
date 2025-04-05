@@ -1,0 +1,21 @@
+# Arquivos de backup/sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*~
+
+# Configs do VS Code
+.vscode/
+
+# Deploys (se for gerar uma pasta tipo dist/)
+dist/
+build/
+
+# GitHub Pages (caso use)
+_site/
